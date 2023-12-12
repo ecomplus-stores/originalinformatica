@@ -31,8 +31,8 @@
       "enabled": true
     },
     {
-      "type": "product-specifications",
-      "enabled": true
+      "type": "buy-together",
+      "enabled": false
     }
   ]
 }
