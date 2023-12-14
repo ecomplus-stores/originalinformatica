@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
+  "html_head": "<head>\n  <style>\n    <h1> {\n      color : blue;\n    }\n    </style>\n  </head>",
   "html_body": ""
 }
