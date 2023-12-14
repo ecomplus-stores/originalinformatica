@@ -1,5 +1,5 @@
 {
-  "css": ".header {\n    background:#0046B4;\n    border-bottom: 1px solid var(--primary-lighter);\n    box-shadow: var(--box-shadow-sm);\n    padding: var(--spacer-1);\n    position: sticky;\n    top: 0;\n    width: 100%;\n    z-index: 900;\n  \n\n} \n{\n    .top-bar__nav {\n    color: #FF6500;\n    margin-left: auto;\n    margin-right: auto;\n    max-width: var(--content-max-width);\n    padding: var(--spacer-2) var(--spacer-2) var(--spacer-1);\n}\n}",
+  "css": ".header {\n    background:#0046B4;\n    border-bottom: 1px solid var(--primary-lighter);\n    box-shadow: var(--box-shadow-sm);\n    padding: var(--spacer-1);\n    position: sticky;\n    top: 0;\n    width: 100%;\n    z-index: 900;\n  \n\n} \n\n    .top-bar__nav {\n    color: #FF6500;\n    margin-left: auto;\n    margin-right: auto;\n    max-width: var(--content-max-width);\n    padding: var(--spacer-2) var(--spacer-2) var(--spacer-1);\n}\n}",
   "html_head": "",
   "html_body": ""
 }
