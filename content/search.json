@@ -3,6 +3,15 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-12-14T13:06:37.495Z",
+      "end": "2023-12-15T13:06:48.743Z",
+      "offers": [
+        "6495f1725e6069037046d6e4"
+      ]
     }
   ]
 }
