@@ -25,6 +25,15 @@
       ]
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2023-12-14T12:51:44.799Z",
+      "end": "2023-12-15T12:51:44.835Z",
+      "offers": [
+        "6492420d5e60690370423255"
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -42,20 +51,6 @@
       "type": "page-title",
       "title": "Loja demo da E-Com Plus",
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true
-    },
-    {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "64923da35e60690370422cff:categories:Titas e Refils:/titas-e-refils",
-        "64923d845e60690370422cc6:brands:Profit:/profit"
-      ]
     }
   ]
 }
