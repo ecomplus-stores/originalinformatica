@@ -1,6 +1,8 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/titas-e-refils?Titas e Refils"
+    ],
     "random": 6,
     "full_width": true
   },
@@ -8,7 +10,8 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#050eaf"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
